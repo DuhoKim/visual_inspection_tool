@@ -1,4 +1,12 @@
-# visual_inspection_tool
+## Galaxy Visual Inspection Tool v1.0
 
 ![GitHub Logo](/vis_ins.png)
-Format: ![Alt Text](url)
+
+Language: Python
+Module: wxPython
+
+# Usage:
+
+> pythonw image_viewer.pyw
+
+
