@@ -1,4 +1,4 @@
-## Galaxy Visual Inspection Tool v1.0
+## Galaxy Image Visual Inspection Tool (GIVIT) v1.0
 
 ![GitHub Logo](/vis_ins.png)
 
